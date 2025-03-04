@@ -1,0 +1,2 @@
+npk_rf_model.pkl filter=lfs diff=lfs merge=lfs -text
+npk_multiout_model.pkl filter=lfs diff=lfs merge=lfs -text
